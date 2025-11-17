@@ -85,25 +85,6 @@ This interactive Streamlit dashboard provides a comprehensive interface for:
 
 ---
 
-## Screenshots
-
-### Home Page
-![Home Page](screenshots/home.png)
-
-### Model Comparison
-![Model Comparison](screenshots/comparison.png)
-
-### Live Prediction
-![Live Prediction](screenshots/prediction.png)
-
-### MLflow Explorer
-![MLflow Explorer](screenshots/mlflow.png)
-
-### Data Analysis
-![Data Analysis](screenshots/data_analysis.png)
-
----
-
 ## Installation
 
 ### Prerequisites
