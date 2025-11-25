@@ -378,8 +378,6 @@ The original lab typically includes:
 | **Model Comparison** | None | Comprehensive |
 | **Data Analysis** | None | Full EDA suite |
 | **Docker** | No | Yes |
-| **Code Lines** | ~100 | ~2000+ |
-
 ---
 
 
